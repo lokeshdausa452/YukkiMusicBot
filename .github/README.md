@@ -12,18 +12,6 @@
 * Multi-Language support
 
 
-# 🔗 An Overview
-
-Here's a brief high-level overview of the BHARTI MUSIC :
-
-This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
-
-* For database, BHARTIMUSIC uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
-* Project uses the bs4 web scrapping for getting many platform details. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) is a Python library for pulling data out of HTML and XML files.
-* The project uses the font [`Raleway`](../assets/font2.ttf) as its main font for the thumbnails.
-* The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
-
-For more information on the technologies that power the BHARTI Music , check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
 
 
 
@@ -77,13 +65,8 @@ shikhar@MacBook~ $ bash start
 
 <img src="https://te.legra.ph/file/e11260ffffff857c620fc.jpg" align="center">
 
-
-## 🏷 Support
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub Issues](https://github.com/lokeshdausa452/BHARTIMUSIC/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/BHARTIMUSIC)
+## support group
+#
 - [Telegram Support](https://t.me/DAUSA_123)
 
 ## 🎗 Project assistance
@@ -98,25 +81,4 @@ PS: You can buy me a coffee too :)
 <p><a href="https://www.buymeacoffee.com/notreallysy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 Together, we can make BHARTIMUSIC **better**!
-
-## ✍🏻 Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for being involved!
-
-## 👨🏻‍💻 Authors & contributors
-
-The original setup of this repository is by [BHARTI MUSIC](https://github.com/bhartimusic).
-
-For a full list of all authors and contributors, see [the contributors page](https://github.com/lokeshdausa452/bhartimusic/contributors).
-
-
-
-
-
-
-
-
-
 
